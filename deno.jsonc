@@ -1,0 +1,7 @@
+{
+  "unstable": ["sloppy-imports"],
+  "imports": {
+    "@b-fuze/deno-dom": "jsr:@b-fuze/deno-dom@^0.1.48",
+    "@std/text": "jsr:@std/text@^1.0.7"
+  }
+}
